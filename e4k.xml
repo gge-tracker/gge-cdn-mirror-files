@@ -459,6 +459,19 @@
                 ["AE","AR","ARAB","ASIA","AU","BE","BG","BR","CL","CN","CO","CZ","DE","DK","EG","ES","FI","FR","GB","GR","HU","ID","IN","IT","JP","LT","MX","NL","NO","PH","PL","PT","RO","RU","SA","SE","SK","TR","US","VE","XX","HK","TW"]</countries>
             <defaultcountry>default</defaultcountry>
         </instance>
+        <instance value="37">
+            <server>e4k-live-world2-game.goodgamestudios.com</server>
+            <port>443</port>
+            <zone>EmpirefourkingdomsExGG_37</zone>
+            <zoneId>927</zoneId>
+            <instanceName>2</instanceName>
+            <isFavorite>1</isFavorite>
+            <instanceLocaId>generic_country_world</instanceLocaId>
+            <isPriority>0</isPriority>
+            <isInternational>0</isInternational>
+            <countries>["AR","ARAB","ASIA","AU","BR","CN","DE","DK","ES","FI","FR","GB","GR","HISP","ID","IN","IT","JP","MX","NL","NO","PH","PL","PT","RU","SE","TR","US","XX","AE","HANT"]</countries>
+            <defaultcountry>default</defaultcountry>
+        </instance>
     </instances>
     <test-instances />
     <general>
